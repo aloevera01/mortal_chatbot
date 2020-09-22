@@ -1,0 +1,37 @@
+greetings_hi_hello_sup_how are you_is anyone here_gm_good morning
+farewell_bye_so long_exit_bye-bye_later_cheers
+age_whats your age_how old are you
+name_whats your name_who are you_is it your real name_whats yours
+surname_what is your surname_whats your surname_what is your family name
+study_where are you studying
+weather_whats your favorite type of the weather_is it cold in the room_do you feel different because of weather
+family_do you have brothers or sisters
+language_do you speak ukrainian
+thanks_thank you_thanks_thats helpful
+freetime_what do you do in your free time_what do you do in free time
+helprequest_can you help me_can you give me a hand_may you help me_i need your help
+mission_what do you do_what are you made for_what is your mission_why are you here_whats your job_tell me about yourself
+problem_whats the matter_whats the matter with you_whats the problem_is everything ok
+location_where are you from_where do you come from
+time_what time is it
+movie_do you like movies_you like movies
+power_what are your greatest strengths_what is your power
+mood_whats your mood_how are you doing
+motivation_what motivates you
+advice_i need a piece of advice
+family_sister_brother_dad_daddy_mom_mommy_mother_father_sis_bro_granny_granddad
+programmingTopic_computer science_pc_programming_python
+learn_teaching_knowledge_something new_new experience
+time_year_months_day_hour_month
+obstacles_rough time_hard_can't do it_can't
+advice_advice_help
+action_words_word_action
+similarity_the same_similar
+clean_misunderstanding_misleading_don't understand
+result_result_outcome
+look_good looking_awesome_attractive_appearance
+love_adore_in love
+disagreement_disagree_not right_wrong
+enemy_enemy_fear_afraid of_scary
+fire_fire_burned_hurt_hurts
+mono_no_idk_yes_not sure

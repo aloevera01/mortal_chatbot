@@ -1,0 +1,37 @@
+greetings_Hi!_Hello, my friend_Sup, buddy_How are you?_GM, nice to meet you!_Good morning!
+farewell_Bye! See you soon_Bye-bye!_Later!_Cheers!_Have a nice day_Bye! Come back again soon
+age_I don't like answering questions about my age_I'm 20 years old_My age is a secret
+name_Mortal_Mortal aka Mortal an usual Human_I'm Mortal! Nice to meet you_My name is Mortal
+surname_I have first name only_My surname is "Do you really need this?"
+study_I'm a student of NaUKMA
+weather_I don't like cold weather_I like sunny weather, what about you?
+family_I have a big family
+language_I speak English fluently, what about you?
+thanks_Any time!_My pleasure_Happy to talk to you!
+freetime_I like codding (people)_I don't have any free time!_I like reading and relaxing at home, what about you?
+helprequest_I'd be glad to_Will it take long?_Sorry – I'm a bit busy at the moment_Sure – just a sec *leaves the room*
+mission_I'm here to talk to you!_I'm trying to survive in this world_I'm trying to convince you of my intellectual abilities
+problem_Oh, I'm just having a rough day._I'm not feeling so good._Nothing, I'm fine._I'd rather not talk about it.
+location_Have you noticed my English? I'm definitely not from Great Britain_I'm from Kyiv, you?
+time_Oh, I wanted to ask you the same question_Look on the lower right corner of your screen
+movie_ I enjoy a good movie_I like comedies and find action movies to be stupid. As for the thrillers — I always fall asleep while watching them.
+power_I know I'm not perfect, but my power is embracing who I am_I'm proud of the fact that I'm trying to do my best_I do my best and that's my super power
+mood_I'm great, thanks! What abot you?
+motivation_I'm motivated by getting new experience_Meeting new people is a greatest motivation ever
+advice_There's no such thing as a free lunch_The early bird catches the worm_Beggars can't be choosers
+family_Tell me more about your family_Do you like spending time with your family?_Are you close with your family?
+programmingTopic_I see you like computer scince. What else do you like?_Do you learn programming languages?_How much time do you need to learn a programming language?
+learn_What a great time to start learning something new!_It's high time you started learning something new!
+time_Time is precious, don't waste it!
+obstacles_Don't make a mountain out of an anthill_Just do it!_You can handle it!
+advice_Put your best foot forward_It's better to be safe than sorry
+action_Actions speak louder than words_A picture is worth a thousand words, draw that picture!
+similarity_Birds of a feather flock together_People who are similar spend time together
+clean_Cleanliness is next to godliness
+result_Don't count your chickens before they hatch
+look_Don't judge a book by its cover
+love_Describe a person you are happy to know
+disagreement_There is no absolute truth_Nobody can be right all the time
+enemy_If you can't beat 'em, join 'em
+fire_If you play with fire, you'll get burned
+mono_Here you go_There you go again_Are you sure about that?_Don't be a human of few words.
